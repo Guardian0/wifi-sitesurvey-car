@@ -1,6 +1,6 @@
 # wifi-sitesurvey-car #
 
-**使用前請安裝dash和pandas套件  
+**使用前請安裝dash和pandas套件**  
 ```
    $ sudo pip3 install dash
 ```
