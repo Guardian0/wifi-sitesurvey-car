@@ -4,6 +4,9 @@
 ```
    $ sudo pip3 install dash
 ```
+```
+   $ sudo pip3 install pandas
+```
 dash參考：  
 https://dash.plot.ly/?_ga=2.133965646.1969019440.1578061462-1423549389.1569381269**
 
