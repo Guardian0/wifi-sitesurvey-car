@@ -2,8 +2,8 @@
 
 **使用前請安裝dash和pandas套件**
 
-# 下載maxoutput.py和test.csv <h1> 執行maxoutput.py
+# 下載maxoutput.py和test.csv，並放在同一個目錄下 <h1> 執行maxoutput.py
   ![image](https://github.com/Guardian0/wifi-sitesurvey-car/blob/master/maxoutput.png)
   
-## 執行maxoutput.py完，下載maxDcsvonDash.py <h2> 執行maxDcsvonDash.py
+## 執行maxoutput.py完，下載maxDcsvonDash.py，放在剛才的目錄下 <h2> 執行maxDcsvonDash.py
 ![image](https://github.com/Guardian0/wifi-sitesurvey-car/blob/master/image.jpg)
