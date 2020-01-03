@@ -23,10 +23,6 @@ for i in range(len(x)):
 #print(xssid)
 (x0, y0) = df.shape
 colors = ['rgb(50, 100, 255)',] * x0
-#if y0 > 0 {}
-#colors[9] = 'crimson'
-xx=[]
-yy=[]
 app.layout = html.Div(children=[
 
     dcc.Graph(
@@ -40,10 +36,7 @@ app.layout = html.Div(children=[
                 marker_color=colors,
                 textposition='auto',
             ),
-            # go.Bar(x=[100], y=[90],text=y, name= 'H', marker_color='rgb(225, 0, 0)',width=[4],),
-            # {'x': xx, 'y': yy, 'type': 'red', 'name': 'TRUE'},
         ], layout={
-            # width=0.5,
             'title': 'dBm'
         })
     )
